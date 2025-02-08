@@ -1,0 +1,3 @@
+[submodule "bsh-private"]
+	path = bsh-private
+	url = git@github.com:jr0w3/bsh-private.git
